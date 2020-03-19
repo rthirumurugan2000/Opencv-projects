@@ -1,2 +1,2 @@
-# Opencv-projects
+# OpenCV-projects
 This repository contains my Opencv projects.
