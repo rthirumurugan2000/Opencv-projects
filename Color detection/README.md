@@ -11,4 +11,5 @@
 ### GREEN:
 ![](images/green.png)
 
-### Naming colours with color dataset
+### Naming colours with color dataset:
+![](images/naming colour.png)
